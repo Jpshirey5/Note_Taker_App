@@ -32,3 +32,5 @@ If you have any questions, please contact me at jayshirey@icloud.com or visit my
 ## Screenshot
 ![](Develop/public/assets/images/Screen%20Shot%202023-04-18%20at%208.55.59%20PM%20(2).png)
 ## Deployment Link
+https://daily-note-taker-app.herokuapp.com/
+
